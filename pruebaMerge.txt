@@ -1,22 +1,2 @@
 algo para modificar en el archivo
 
-<<<<<<< HEAD
-ahora
-escribo
-algo 
-para 
-que 
-haya
-conflicto
-con 
-lo
-q
-esta
-en 
-el
-repo
-.....
-
-=======
-agrego estas cosas desde la web...simulando una modificacion de alguien mas....
->>>>>>> 34ccaffaca1a784b1b043247bd7b4fa3e1d2d8ba
